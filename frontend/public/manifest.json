@@ -1,7 +1,7 @@
 {
-  "name": "Frappe Drive",
+  "name": "Vault",
   "description": "An easy to use, document sharing and management solution",
-  "short_name": "Drive",
+  "short_name": "Vault",
   "icons": [
     {
       "src": "/favicon-72x72.png",

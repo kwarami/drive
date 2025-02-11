@@ -4,10 +4,10 @@ from frappe import _
 def get_data():
     return [
         {
-            "module_name": "Drive",
+            "module_name": "Vault",
             "color": "grey",
             "icon": "octicon octicon-file-directory",
             "type": "module",
-            "label": _("Drive"),
+            "label": _("Vault"),
         }
     ]
